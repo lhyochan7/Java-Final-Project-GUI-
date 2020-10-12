@@ -5,7 +5,6 @@ This is text-based story game. The goal of the game is to escape from an unknown
 
 => If wanting to add BGM to the game, you must downlaod a BGM (.wav) file and add it to the main.java.
 
-//BGM play
 		try
 		{
 			AudioInputStream bgm = AudioSystem.getAudioInputStream(new File("BGM.wav"));
